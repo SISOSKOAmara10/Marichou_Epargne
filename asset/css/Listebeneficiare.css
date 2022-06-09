@@ -1,0 +1,45 @@
+
+body{
+    border: 2px solid black;
+}
+
+#tete{
+    background-color:#FF69B4;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+table, td, th {
+    border: 2px solid;
+    padding: 1% 0% 1% 1%;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+ 
+  #buttonretour{
+      margin: 20%;
+      width: 70px;
+      height: 40px;
+      border-radius: 10px;
+      color: black;
+      border: 2px solid blue;
+      background-color: white;
+  }
+  button{
+    background-color: rgb(73, 228, 11);
+    border-radius: 5px;
+    color: black;
+  font-size: 10px;
+
+    
+  }
