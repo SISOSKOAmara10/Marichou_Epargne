@@ -7,7 +7,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Ajouter tontine</title>
-	<link rel="stylesheet" href="asset/css/ajouterTontine.css">
+	<link rel="stylesheet" href="ajouterTontine.css">
 	<script src=""></script>
 </head>
 <body>
@@ -22,11 +22,12 @@
                     <h1>Ajouter Tontine</h1>
                 </div>
                 <div class="col-md-1">
-                <a href="GererTontineAdmin.html"><button id="buttonretour">Retour</button></a>
+                <a href="GererTontineAdmin.php"><button id="buttonretour" style="margin-left: -60%;">Retour</button></a>
                 </div>
 
             </div>
-            <form>
+            <br>
+            <form method="post" action="traitementTontine.php">
                     <div id="insertion">
                         <hr>
             <!-- <label for="nom_tontine">Non de la tontine</label> -->
@@ -40,14 +41,14 @@
                         <br>
 
                         <!-- <label for="prix">Montant</label><br> -->
-                        <input type="int" name="prix" placeholder="montant"><br>
+                        <input type="int" name="montant" placeholder="montant"><br>
                         <br>
                         <!-- <label for="nombre_perso">Nombre des personnes</label><br> -->
                         <input type="text" name="nombre_perso" placeholder="Nombre des personnes"><br>
                         <br>
                         <!-- <label for="montant">Solde</label><br> -->
-                        <input type="int" name="montant" placeholder="solde"><br><br>
-                    </div>
+                        <input type="int" name="solde" placeholder="solde"><br><br>
+                        </div>
                         <button id="annuler" type="reset" value="reset">Annuler</button>
                         <button id="enreigistrer" type="submit" value="submit">Enreigistrer</button>
                         <br><br>

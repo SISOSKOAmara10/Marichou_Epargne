@@ -18,12 +18,24 @@ h1{
     border: 2px solid blue;
     background-color: white;
 }
+#buttonAjout{
+    float: right;
+    color: black;
+    background-color: blue;
+    border: 3px solid blue;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 1%;
+}
 table {
     width: 90%;
     border-collapse: separate;
     border-spacing: 30px;
     padding: 1%;
     text-align: center;
+    margin-left: 4%;
+    font-weight: bold;
+    background-color: #ECA1DF;
 }
 
 td{border: 3px solid #ECA1DF;
@@ -33,16 +45,22 @@ td{border: 3px solid #ECA1DF;
   
   th{
       text-align: center;
+
   }
   #modifier{
       background-color: rgb(25, 201, 25);
       border-radius: 10px;
+      color: black;
   }
   #suppr{
       border-radius: 10px;
       background-color: red;
+      color: black;
   }
   .sansfond{
       background-color: #ECA1DF;
+  }
+  thead{
+    background-color: #ECA1DF;
   }
 

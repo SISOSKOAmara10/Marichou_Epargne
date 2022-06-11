@@ -36,13 +36,12 @@ h1{
 } 
 
  #buttonretour{
-      margin-top: 70%;
       width: 70px;
       height: 40px;
       border-radius: 10px;
       color: black;
       border: 2px solid blue;
-      background-color: white;
+      background-color: #ffffff;
   }
 button{
     border: 1px solid black;
