@@ -1,0 +1,101 @@
+.partie1
+        {
+          background: #FF69B4;
+          height: 15%;
+          position: relative;
+        }
+.listentete
+           {
+             display: flex;
+             list-style: none;
+             gap: 20%;
+           }
+.btn1
+     {
+       border-radius: 10%;
+       margin-top: 5px;  
+     }      
+.titre
+      {
+        font-size: 140%;
+        font-weight: bold;
+        margin-left: 20%;   
+      } 
+img
+   {
+     height: 30%;
+     width: 15%; 
+     margin-top: 5px; 
+   }                
+.tout
+     {
+       background: violet;
+       height: 85%;
+       width: 100%;   
+     } 
+.corps1
+     {
+       display: flex;
+       list-style: none;
+       padding-top: 2%;
+       padding-bottom: 19px;
+       gap: 10%;
+     }  
+.corps2
+     {
+       display: flex;
+       list-style: none;
+       padding-bottom: 19px;
+       gap: 10%;
+     } 
+.corps3
+     {
+       display: flex;
+       list-style: none;
+       padding-bottom: 19px;
+       gap: 10%;
+     }
+.corps4
+     {
+       display: flex;
+       list-style: none;
+       padding-bottom: 19px;
+       gap: 10%;
+     }
+.corps5
+     {
+       display: flex;
+       list-style: none;
+       padding-bottom: 19px;
+       gap: 10%;
+     }
+.corps6
+     {
+       display: flex;
+       list-style: none;
+       padding-bottom: 19px;
+       gap: 10%;
+     } 
+.corps7
+     {
+       display: flex;
+       list-style: none;padding-bottom: 19px;
+       gap: 10%;
+     }                        
+.epg
+     {
+       font-size: 25px;  
+       margin-left: 7%; 
+     }
+input
+     {
+       border-radius: 12%;  
+     }                                
+/* .btnm
+     {
+       border-radius: 30%;   
+     }    
+.btns
+     {
+       border-radius: 30%;   
+     }   */

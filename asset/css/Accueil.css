@@ -1,0 +1,80 @@
+.partie1
+        {
+          background: #FF69B4;
+          height: 85px;
+        }
+
+.titre
+   { 
+    margin-left: 43%; 
+    margin-top: 22px;
+   }
+
+.cadre2
+       {
+         background: violet;
+         margin-left: 25%;
+         height: 80%;
+         width: 75%;  
+       } 
+.cadre
+       { 
+        margin-top: 100px;
+       } 
+   
+.corps
+       {
+        background: violet;
+        height: 375px;
+       }
+       
+.corps1
+       {
+         margin-left: 25%;
+       }
+
+.l2
+    {
+      margin-left: -5.5%;
+    }
+      
+.bouton1
+    { 
+      margin-top: 6px; 
+      margin-left: 5%; 
+    }
+
+.bouton2
+        {
+          margin-top: 7px;
+          margin-left: 5%;   
+        }
+
+#tbtn
+     {
+        background: #FF69B4;   
+     }   
+
+.image
+      {
+        border: solid black ;
+        width: 40%;
+        height: 360px;
+        border-radius: 190px 170px 0px;
+        background-color: white;
+        margin-left: 60%;
+        margin-top: -25%;
+      }        
+
+img
+    {
+      margin-left: 11%;
+      margin-top: 8%;
+    } 
+  
+/* .tll
+    {
+      width: 50%;
+      margin-left: 25%;
+      height: ;    
+    } */

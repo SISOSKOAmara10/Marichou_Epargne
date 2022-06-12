@@ -1,0 +1,46 @@
+.partie1
+        {
+          background: #FF69B4;
+          height: 85px;
+        }
+
+img
+   {
+     margin-top: 6px;      
+   } 
+
+.btn1
+   {
+     border-radius: 10%;
+     margin-top: 18px;
+     margin-left: 221px;
+     height: 65%;
+     width: 47%;
+   } 
+
+.cts
+    {
+      font-size: 150%;
+      font-weight: bold;  
+      margin-left: 15%; 
+      margin-top: 20px; 
+    }
+    
+.photo1
+      {
+        margin-top: -115px;   
+      } 
+
+.photo2
+      {
+        margin-top: 15%;
+        margin-left: 10%;   
+      }   
+      
+.photo3
+      {
+        margin-top: 15%;
+        margin-left: 40%;
+        /* float: right;  */
+        margin-top: -65%;  
+      } 

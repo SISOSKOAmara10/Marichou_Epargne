@@ -1,0 +1,79 @@
+.partie1
+        {
+          background: #FF69B4;
+          height: 85px;
+        }
+
+.titre
+   { 
+    margin-left: 43%; 
+    margin-top: 22px;
+   }
+
+.photo1
+       {
+         margin-bottom: 25%;
+         margin-left: 45%;  
+       }
+
+.photo2
+       {
+         margin-top: -50%;
+         margin-left: -10%;  
+       }
+
+.paragraphe
+           {
+            margin-top: -40%; 
+            padding-top: 5%; 
+            margin-left: 67%; 
+           } 
+           
+.text1
+      {
+       margin-left: -16%;
+      }
+      
+.text2
+      {
+       margin-left: -27%;
+      }
+
+.text3
+      {
+       margin-left: -24%;
+      }
+
+.text4
+      {
+       margin-left: -4%;
+      }
+
+.text5
+      {
+       margin-left: -27%;
+      }
+
+.text6
+      {
+       margin-left: -14%;
+      }
+
+.btn
+    {
+      margin-left: 90%;
+      margin-top: 12%;
+    } 
+    
+#tbtn
+     {
+        background: #FF69B4;   
+     }   
+
+/* .cts
+    {
+      font-size: 150%;
+      font-weight: bold;  
+      margin-left: 15%; 
+      margin-top: 20px; 
+    } */
