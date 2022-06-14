@@ -1,0 +1,44 @@
+body{
+    background-color:#ECA1Df;
+}
+.row{
+    margin-top: 50px;
+}
+.mot{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+.compte{
+	margin-top: 20px;
+    margin-left: 1030px;
+    font-weight: bold;
+}
+
+h3{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 80px;
+}
+.connecte{
+    margin-left: 640px;
+    margin-top: 0;
+    border-radius: 0;
+}
+.retour{
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.form-control{
+    height: 50px;
+    width: 70%;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.form-control::placeholder{
+    color: #ff64b4;
+  }
+  

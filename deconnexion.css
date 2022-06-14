@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+  }
+  .v35_4399 {
+    width: 100%;
+    height: 540px;
+    background: rgba(236,161,223,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v35_4400 {
+    width: 691px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 170px;
+    left: 255px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 50px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v35_4401 {
+    width: 210px;
+    height: 124px;
+    background: url("../images/v35_4401.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 371px;
+    left: 48px;
+    overflow: hidden;
+  }
+  .v35_4402 {
+    width: 210px;
+    height: 124px;
+    background: rgba(244,40,40,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 2px solid rgba(0,0,0,1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v35_4403 {
+    width: 134px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 13px;
+    left: 38px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 90px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v35_4404 {
+    width: 237px;
+    height: 124px;
+    background: url("../images/v35_4404.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 371px;
+    left: 925px;
+    overflow: hidden;
+  }
+  .v35_4405 {
+    width: 237px;
+    height: 124px;
+    background: rgba(61,127,226,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 2px solid rgba(0,0,0,1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v35_4406 {
+    width: 166px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 8px;
+    left: 39px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 90px;
+    opacity: 1;
+    text-align: left;
+  }

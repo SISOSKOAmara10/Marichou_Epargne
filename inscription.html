@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap/css/inscription.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="d-grid gap-2 d-md-block">
+            <button class="btn btn-light retour" type="button">Retour</button>
+            <img src="images/LOGO.png" class=" float-end" alt="logo">
+        </div>
+          <h2>Inscription</h2>
+          <form method="post" action="inscription.php">
+        <div class="row">
+            <div class="col">
+              <input type="text" class="form-control" name="prenom" placeholder="prénom" aria-label="First name">
+            </div>
+            <div class="col">
+              <input type="text" class="form-control" name="nom" placeholder="Nom" aria-label="Last name">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <input type="text" class="form-control"  name="adresse" placeholder="Adresse" aria-label="Adresse">
+            </div>
+            <div class="col">
+              <input type="tel" class="form-control" name="numero" placeholder="N° de telephone" aria-label="n°telephone">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <input type="password" class="form-control" name="motdepasse" placeholder="Mot de passe" aria-label="password">
+            </div>
+            <div class="col">
+              <input type="password" class="form-control" name="cmdp" placeholder="Confirme mot de passe" aria-label="password">
+            </div>
+            <div>
+              <input type="file"  name="photo">
+            </div>
+          </div>
+          <p>Vous avez déja un compte ?</p>
+    </div> 
+    <div class="d-grid d-md-block">
+        <!-- <button class="btn btn-light connexion" type="button">Connexion</button> -->
+        <input class="btn btn-light connexion" type="submit" value="connexion"/>
+      </div>
+    </form>
+
+    <script src="bootstrap/js/bootstrap.js"></script>
+</body>
+</html>

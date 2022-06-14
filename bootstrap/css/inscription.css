@@ -1,0 +1,42 @@
+body{
+    background-color:#ECA1Df;
+}
+.row{
+    margin-top: 50px;
+}
+p{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.connexion{
+    margin-left: 640px;
+    margin-top: 0;
+}
+.retour{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.form-control{
+    height: 50px;
+    width: 90%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.form-control::placeholder{
+    color: #FF69B4;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.col{
+    margin: 0px;
+}
